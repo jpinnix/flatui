@@ -1,7 +1,7 @@
 {
   "name": "flatui",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "description": "An Atom syntax theme inspired by the Flat UI color palette.",
   "repository": "https://github.com/jpinnix/flatui",
